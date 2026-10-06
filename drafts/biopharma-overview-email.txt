@@ -1,0 +1,66 @@
+BIOPHARMA OVERVIEW EMAIL (draft for Mark's review)
+
+Fill in before sending:
+  [NAME]            first name of the contact at the biopharma company
+  [COMPANY]         their company name
+  [WEBSITE URL]     Energy+ public site (broader overview)
+  [PRIVATE PAGE]    the password-protected Sentry BioPharma page in this repo
+  [PASSWORD]        the password for that page (or send it separately)
+  [YOUR NAME]       sender
+  [PHONE]           sender phone
+
+----------------------------------------------------------------------
+
+Subject: How Energy+ works, and what to expect from us
+
+Hi [NAME],
+
+Thanks again for the conversation. Before we go any further, here is a
+short overview of who we are and how we work, so there are no surprises.
+
+What we are
+Energy+ is a vendor neutral energy company. We do not sell equipment and
+we are not tied to any manufacturer, contractor, or utility. Our job is
+to find where [COMPANY] is overspending on energy and fix only what is
+worth fixing.
+
+How we work, in three steps
+
+1. Diagnose. We start with your utility bills and your equipment, not a
+   product catalog. That tells us exactly where the money is going and
+   where it is being wasted.
+
+2. Recommend only what meets your ROI. You tell us the payback or return
+   threshold your business needs. We only put forward solutions that
+   clear it. If nothing clears it, we tell you that too.
+
+3. Fund it so it cash flows from day one. We line up the financing,
+   utility rebates, and tax incentives that fit the project, so the
+   savings cover the cost from the first month rather than years later.
+
+What we need from you
+  - Recent utility bills (12 months if you have them)
+  - Nameplate details on your major equipment (HVAC, refrigeration,
+    cleanrooms, lab and process equipment)
+  - Your ROI or payback requirement
+  - A 20 minute call to walk through the first findings
+
+What you get back
+A plain language report showing where the overspend is, which fixes meet
+your ROI, and how each one gets paid for.
+
+For the broader overview of Energy+, see [WEBSITE URL].
+For the page we put together specifically for [COMPANY], see
+[PRIVATE PAGE] (password: [PASSWORD]).
+
+Happy to answer any questions before we get started.
+
+[YOUR NAME]
+Energy+
+[PHONE]
+
+----------------------------------------------------------------------
+
+Alternate subject lines
+  - What working with Energy+ looks like
+  - Energy+ overview for [COMPANY]: vendor neutral, ROI first
