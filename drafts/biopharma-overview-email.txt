@@ -1,42 +1,31 @@
-BIOPHARMA OVERVIEW EMAIL (revised after Mark's feedback)
+SENTRY BIOPHARMA OVERVIEW EMAIL (current version, matches the Gmail draft)
 
-Fill in before sending:
-  [NAME]            first name of the contact at the biopharma company
-  [COMPANY]         their company name
-  [UTILITY]         their utility company
-  [WEBSITE URL]     Energy+ public site (broader overview)
-  [PRIVATE PAGE]    the password-protected Sentry BioPharma page in this repo
-  [PASSWORD]        the password for that page
-  [YOUR NAME]       sender
-  [PHONE]           sender phone
-
-----------------------------------------------------------------------
-
+To: Mark Schmaltz <Mark.Schmaltz@lhcps.com>
 Subject: How Energy+ works, and what to expect from us
 
-Hi [NAME],
+Hey Mark,
 
 Thanks again for the conversation. Before we go any further, here is a
 short overview of who we are and how we work, so there are no surprises.
 
 Who we are
-Energy+ is a vendor neutral energy company. We do not sell equipment and
-we are not tied to any manufacturer, contractor, or utility. We work with
-engineers trusted by Sandia National Laboratories, the Department of
-Defense, and the Department of Energy to verify best-in-class retrofits
-that eliminate energy overspend.
+Energy+ is a vendor neutral energy company & not tied to any
+manufacturer, contractor, or utility. We work with engineers trusted by
+Sandia National Laboratories, the Department of Defense, and the
+Department of Energy to verify best-in-class retrofits that eliminate
+energy overspend. We represent and advocate for the end client.
 
-Our most popular solutions:
-  - Compressor retrofits that eliminate 20 to 50% of HVAC overspend
+Our most popular solutions for buildings like yours:
+  - Compressor retrofits that eliminate 20 to 50% of HVAC/R overspend
   - Energy harmonization. Your utility penalizes you for poor power
     quality, and left unaddressed it damages your equipment.
   - Peak shaving to cut your peak demand charges
 
 How we work, in three steps
 
-1. Diagnose. We start with your utility bills and your equipment, not a
-   product catalog. That tells us exactly where the money is going and
-   where it is being wasted.
+1. Diagnose. We start with your utility bills and your HVAC and
+   Refrigeration equipment, not a product catalog. That tells us exactly
+   where the money is going and where it is being wasted.
 
 2. Recommend only what meets your ROI. You tell us the payback or return
    threshold your business needs. We only put forward solutions that
@@ -46,15 +35,14 @@ How we work, in three steps
    utility rebates, and tax incentives that fit the project, so the
    savings cover the cost from the first month rather than years later.
 
-An example overview for [COMPANY]
+An example overview for Sentry BioPharma Services
 To show you what this looks like in practice, we put together a short
-page for [COMPANY]. It lays out what we expect to find in a building
-like yours, on [UTILITY] rates, and how each item would be paid for.
+page for Sentry BioPharma Services. It lays out what we expect to find
+in a cold-storage GMP facility like theirs, on Indiana large commercial
+rates, and how each item would be paid for.
 
-[PRIVATE PAGE]
-Password: [PASSWORD]
-
-For the broader overview of Energy+, see [WEBSITE URL].
+https://slashyourenergycost.com/sentry/
+Password: sentry
 
 What we need from you
   - Recent utility bills (12 months if you have them)
@@ -65,12 +53,6 @@ What we need from you
 
 Happy to answer any questions before we get started.
 
-[YOUR NAME]
+Dan
 Energy+
-[PHONE]
-
-----------------------------------------------------------------------
-
-Alternate subject lines
-  - What working with Energy+ looks like
-  - Energy+ overview for [COMPANY]: vendor neutral, ROI first
+(864) 777-0688
